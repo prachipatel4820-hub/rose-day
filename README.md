@@ -98,7 +98,7 @@ body{
 
 <!-- YOUR SONG -->
 <audio id="music" loop preload="auto">
-  <source src="lover.mp3" type="audio/mpeg">
+  <source src="Lover.mp3" type="audio/mpeg">
 </audio>
 
 <script>
